@@ -1,0 +1,33 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.toolbar {
+  margin-bottom: 20px;
+}
+
+.toolbar button, .keyboard button {
+  margin-right: 5px;
+}
+
+.text-area {
+  border: 1px solid #000;
+  padding: 10px;
+  width: 300px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}

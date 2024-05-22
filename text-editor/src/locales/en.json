@@ -1,0 +1,11 @@
+{
+  "keyboard": {
+    "keys": ["A", "B", "C", "1", "2", "3", "!", "@", "#"],
+    "languages": ["English", "Hebrew", "Emoji"]
+  },
+  "toolbar": {
+    "bold": "Bold",
+    "italic": "Italic",
+    "red": "Red"
+  }
+}
